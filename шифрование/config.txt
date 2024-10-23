@@ -1,0 +1,2 @@
+assoc .crp=message.crp    <- this is an example file
+ftype MyAppFileType="C:\Path\To\YourApp.exe" "%1"
